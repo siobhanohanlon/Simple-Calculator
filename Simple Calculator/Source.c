@@ -5,7 +5,6 @@ void main()
 {
 	// Declare variables
 	float num1, num2, sum, minus, mult, divide;
-	float amountCal = 0;
 	char oper;
 
 	//Decide which calculation to do
